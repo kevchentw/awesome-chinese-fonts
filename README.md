@@ -1,4 +1,4 @@
-# Awesome Chinese fonts
+# Awesome Chinese Fonts
 
 收集免費的中文字型    
 A curated list of awesome Chinese Fonts
@@ -23,11 +23,11 @@ Please follow the license terms for fonts
 	 - Download: [思源柔黑體](https://osdn.jp/downloads/users/8/8642/genjyuugothic-20150607.zip) [思源柔黑體X](https://osdn.jp/downloads/users/8/8644/genjyuugothic-x-20150607.zip) [思源柔黑體XL](https://osdn.jp/downloads/users/8/8643/genjyuugothic-l-20150607.zip)
 	 - [Licence](http://jikasei.me/info/license.html)
  - [文悅新青年體](http://wytype.com/typeface/WenYue-XinQingNianTi/)
- 	- Language: Traditional Chinese
+ 	- Language: Simplified Chinese
 	- [Download](http://wytype.com/purchase/)
 	- [Licence](http://wytype.com/purchase/)
  - [文悅古體仿宋](http://wytype.com/typeface/WyueGutiFangsong/)
- 	- Language: Simplified Chinese
+ 	- Language: Traditional Chinese
 	- [Download](http://wytype.com/purchase/)
  	- [Licence](http://wytype.com/purchase/)
  - [ORADANO Mincho 明朝](http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/)
