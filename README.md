@@ -40,9 +40,11 @@ Please follow the license terms for fonts
 
 ## Fonts Collection 
  - [Free Japanese Font](http://www.freejapanesefont.com/)
+ 	- Offering free fonts(not all) for commercial-use 部份字體提供免費商業使用授權 
  - [新蒂字體](http://www.sentyfont.com/)
 	- [Licence](http://www.sentyfont.com/condition%20and%20terms.htm) 
  - [造字工房](http://www.makefont.com/fonts.html)
+ 	- Offering free fonts for non-commercial use 提供多款免費個人非商業使用字體
 
 ## Web Font  
 
