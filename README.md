@@ -1,9 +1,14 @@
 # Awesome Chinese fonts
 
 收集免費的中文字型    
-A curated list of awesome Chinese fonts
+A curated list of awesome Chinese Fonts
 
-## Free Fonts
+## Notice 注意
+
+請遵守字體的授權條款  
+Please follow the license terms for fonts
+
+## Free Fonts 免費字體
 
  - 思源黑體 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/) ([Noto Sans CJK TC](https://www.google.com/get/noto/help/cjk/))
 	 - Language: Traditional Chinese, Simplified Chinese, Japanese, and Korean
@@ -33,9 +38,9 @@ A curated list of awesome Chinese fonts
 	 - Language: Japanese
 	 - Download: [超極細ゴシック体](http://font.websozai.jp/fontdata-8/chogokubosogothic.zip)  [ なごみ極細ゴシック](http://font.websozai.jp/fontdata-8/nagomigokubosogothic.zip)
 
-## Fonts Collection
+## Fonts Collection 
  - [Free Japanese Font](http://www.freejapanesefont.com/)
- -  [新蒂字體](http://www.sentyfont.com/)
+ - [新蒂字體](http://www.sentyfont.com/)
 	- [Licence](http://www.sentyfont.com/condition%20and%20terms.htm) 
  - [造字工房](http://www.makefont.com/fonts.html)
 
@@ -46,10 +51,11 @@ A curated list of awesome Chinese fonts
 - [Google Fonts](https://www.google.com/fonts/earlyaccess)
 - [Adobe Typekit](https://typekit.com/) 
  
-## License
+## License 授權
 
 [MIT](https://opensource.org/licenses/MIT)
 
-## Contribution
+## Contribution 貢獻
 
+歡迎 Pull request  
 Feel free to make a Pull request
