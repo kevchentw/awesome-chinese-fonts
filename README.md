@@ -22,6 +22,10 @@ Please follow the license terms for fonts
      - Language: Traditional Chinese, Simplified Chinese, Japanese, and Korean
 	 - Download: [思源柔黑體](https://osdn.jp/downloads/users/8/8642/genjyuugothic-20150607.zip) [思源柔黑體X](https://osdn.jp/downloads/users/8/8644/genjyuugothic-x-20150607.zip) [思源柔黑體XL](https://osdn.jp/downloads/users/8/8643/genjyuugothic-l-20150607.zip)
 	 - [Licence](http://jikasei.me/info/license.html)
+ - [cwtex-q-fonts](http://jikasei.me/font/genshin/)
+  	 - Language: Traditional Chinese, Simplified Chinese, Japanese, and Korean
+	 - [Download](https://github.com/l10n-tw/cwtex-q-fonts-TTFs/releases)
+	 - [Licence] [GNU GENERAL PUBLIC LICENSE Version 2.0](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), [SIL Open Font License v1.1](https://opensource.org/licenses/OFL-1.1)
  - [文悅新青年體](http://wytype.com/typeface/WenYue-XinQingNianTi/)
  	- Language: Simplified Chinese
 	- [Download](http://wytype.com/purchase/)
